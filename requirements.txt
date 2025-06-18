@@ -52,7 +52,7 @@ itsdangerous==2.1.2
 Jinja2==3.1.2
 keras==2.13.1
 libclang==16.0.6
--e git+ssh://git@github.com/LibreTranslate/LibreTranslate.git@015291f2ac684b6cefe8dbcb870b7a6df80b2bb8#egg=libretranslate
+-e git+https://github.com/LibreTranslate/LibreTranslate.git@015291f2ac684b6cefe8dbcb870b7a6df80b2bb8#egg=libretranslate
 limits==3.6.0
 LTpycld2==0.42
 lxml==4.9.3
